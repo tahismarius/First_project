@@ -1,4 +1,4 @@
-#Exceptii
+# Exceptii
 # print('Inainte de diviziune')
 #
 # try:
@@ -8,7 +8,7 @@
 #     print(e)
 #
 # print('Dupa divziune')
-
+#
 # x = 'hello'
 #
 # if not type(x) is int:
